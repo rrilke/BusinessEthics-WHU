@@ -38,7 +38,23 @@ The assignment will be graded out of 10 points. Up to four points will be awarde
 - Sinnott-Armstrong, W. (2023). Consequentialism. In E. N. Zalta & U. Nodelman (Eds.), *The Stanford Encyclopedia of Philosophy* (Winter 2023 edition). Retrieved from [https://plato.stanford.edu/archives/win2023/entries/consequentialism](https://plato.stanford.edu/archives/win2023/entries/consequentialism)
 - Sandel, M. (2010). The greatest happiness principle. In *Justice* (pp. 31-57). Penguin Books.
 - Harvard University. (2009, September 8). Justice: What’s the right thing to do? Episode 02: “Putting a Price Tag on Life” [Video]. YouTube. [https://www.youtube.com/watch?v=0O2Rq4HJBxw](https://www.youtube.com/watch?v=0O2Rq4HJBxw)
-### Session 2 - Virtue Ethics & Deontology  
+### Session 2 - Virtue Ethics & Deontology
+
+#### Literature (required)
+
+**Deontology**
+- Hinman, L. (2007). *The ethics of duty*. In *Ethics: A pluralistic approach to moral theory* (pp. 166-194). Wadsworth.
+- Alexander, L., & Moore, M. (2021). Deontological ethics. In E. N. Zalta (Ed.), *The Stanford Encyclopedia of Philosophy* (Winter 2021 edition). [Read online](https://plato.stanford.edu/archives/win2021/entries/ethics-deontological/)
+- Sandel, M. (2010). What matters is the motive. In *Justice* (pp. 103-139). Penguin Books.
+- Harvard University. (2009, September 9). Justice: What’s the right thing to do? Episode 06: “Mind Your Motive” [Video]. YouTube. [Watch here](https://www.youtube.com/watch?v=8rv-4aUbZxQ)
+
+**Virtue Ethics**
+- Hinman, L. (2007). *The ethics of character*. In *Ethics: A pluralistic approach to moral theory* (pp. 259-293). Wadsworth.
+- Hursthouse, R., & Pettigrove, G. (2023). Virtue ethics. In E. N. Zalta & U. Nodelman (Eds.), *The Stanford Encyclopedia of Philosophy* (Fall 2023 edition). [Read online](https://plato.stanford.edu/archives/fall2023/entries/ethics-virtue)
+- Sandel, M. (2010). Who deserves what? In *Justice* (pp. 184-207). Penguin Books.
+- Harvard University. (2009, September 9). Justice: What’s the right thing to do? Episode 10: “The Good Citizen” [Video]. YouTube. [Watch here](https://www.youtube.com/watch?v=MuiazbyOSqQ)
+
+
 ### Session 3 - Behavioral Ethics  
 ### Session 4 - Corporate Responsibility & Sustainability  
 ### Session 5 - Marketing, Accounting & Transparency  
