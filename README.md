@@ -1,6 +1,7 @@
 # Business Ethics
 
-##Course Description
+## Course Description
+
 Business ethics is concerned with the principles and standards that guide behavior in the world of commerce. Traditionally, the field explores normative questions about how individuals and organizations ought to act in business contexts. This course introduces students to the central theories, concepts, and dilemmas in business ethics, spanning both philosophical and applied perspectives.
 
 A core objective of the course is to equip students with the tools to critically assess ethical challenges in business life. To this end, we will explore a range of normative ethical frameworks—including deontology, utilitarianism, and virtue ethics—and apply them to real-world business cases involving topics such as corporate responsibility, whistleblowing, sustainability, and stakeholder conflicts.
