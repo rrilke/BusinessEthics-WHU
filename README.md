@@ -40,12 +40,12 @@ The assignment will be graded out of 10 points. Up to four points will be awarde
 
 **Utilitarianism**
 - Hinman, L. (2007). *The ethics of consequences*. In *Ethics: A pluralistic approach to moral theory* (pp. 129-165). Wadsworth.
-- Sinnott-Armstrong, W. (2023). Consequentialism. In E. N. Zalta & U. Nodelman (Eds.), *The Stanford Encyclopedia of Philosophy* (Winter 2023 edition). Retrieved from [https://plato.stanford.edu/archives/win2023/entries/consequentialism](https://plato.stanford.edu/archives/win2023/entries/consequentialism)
+- Sinnott-Armstrong, W. (2023). Consequentialism. In E. N. Zalta & U. Nodelman (Eds.), *The Stanford Encyclopedia of Philosophy* (Winter 2023 edition). Retrieved from [Read online](https://plato.stanford.edu/archives/win2023/entries/consequentialism)
 - Sandel, M. (2010). The greatest happiness principle. In *Justice* (pp. 31-57). Penguin Books.
-- Harvard University. (2009, September 8). Justice: What’s the right thing to do? Episode 02: “Putting a Price Tag on Life” [Video]. YouTube. [https://www.youtube.com/watch?v=0O2Rq4HJBxw](https://www.youtube.com/watch?v=0O2Rq4HJBxw)
+- Harvard University. (2009, September 8). Justice: What’s the right thing to do? Episode 02: “Putting a Price Tag on Life” [Video]. YouTube. [Watch here](https://www.youtube.com/watch?v=0O2Rq4HJBxw)
 ### Session 2 - Virtue Ethics & Deontology
 
-#### Literature (required)
+#### Literature
 
 **Deontology**
 - Hinman, L. (2007). *The ethics of duty*. In *Ethics: A pluralistic approach to moral theory* (pp. 166-194). Wadsworth.
@@ -60,7 +60,13 @@ The assignment will be graded out of 10 points. Up to four points will be awarde
 - Harvard University. (2009, September 9). Justice: What’s the right thing to do? Episode 10: “The Good Citizen” [Video]. YouTube. [Watch here](https://www.youtube.com/watch?v=MuiazbyOSqQ)
 
 
-### Session 3 - Behavioral Ethics  
+### Session 3 - Behavioral Ethics
+
+#### Literature
+- Haidt, J. (2001). The emotional dog and its rational tail: A social intuitionist approach to moral judgment. *Psychological Review, 108*(4), 814–834. [https://doi.org/10.1037/0033-295X.108.4.814](https://doi.org/10.1037/0033-295X.108.4.814)
+- Sunstein, C. R. (2005). Moral heuristics. *Behavioral and Brain Sciences, 28*(4), 531–573. [https://doi.org/10.1017/S0140525X05000099](https://doi.org/10.1017/S0140525X05000099)
+
+
 ### Session 4 - Corporate Responsibility & Sustainability  
 ### Session 5 - Marketing, Accounting & Transparency  
 ### Session 6 - Finance, Incentives & Corruption  
