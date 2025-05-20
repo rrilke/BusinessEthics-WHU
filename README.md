@@ -14,12 +14,22 @@ Through a combination of classic readings, contemporary research, and practical 
 
 ## Grading
 
+### Exam
+
+### ChatGPT Exam Question Challenge
+
+
 ## Detailed Schedule
 
-### Session 1 - Introduction & Utilitarianism
-### Session 2 - Virtue Ethics & Deontology
-### Session 3 - Descriptive Models of Ethical Behavior
- 
+### Session 1 - Introduction & Utilitarianism  
+### Session 2 - Virtue Ethics & Deontology  
+### Session 3 - Behavioral Ethics  
+### Session 4 - Corporate Responsibility & Sustainability  
+### Session 5 - Marketing, Accounting & Transparency  
+### Session 6 - Finance, Incentives & Corruption  
+
+
+
 
 ## Policies
 
