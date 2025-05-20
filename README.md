@@ -17,6 +17,17 @@ Through a combination of classic readings, contemporary research, and practical 
 ### Exam
 
 ### ChatGPT Exam Question Challenge
+As an optional opportunity to earn bonus points, students may submit a set of self-generated exam questions created in collaboration with ChatGPT. The objective of this assignment is twofold: first, to deepen your understanding of the course content by constructing thoughtful, well-designed exam questions; second, to engage critically with the capabilities and limitations of generative AI in academic work.
+
+To receive the full amount of 10 bonus points, each student must submit five original exam-style questions. These questions must vary in difficulty: at least one should test basic conceptual or factual understanding, while others should require more advanced application, reasoning, or critical thinking. The questions must cover different topics discussed in the course and be pedagogically sound—that is, clearly formulated and suitable for an exam context. Both multiple-choice questions and short open-ended questions are acceptable formats. For each question, you must also provide a model answer or solution that demonstrates what a correct student response would look like.
+
+In addition to the questions and answers, your submission must include a detailed documentation of how you used ChatGPT in the question development process. This documentation must include: the exact prompt(s) you used to generate the question, the output(s) you received from ChatGPT, and a short reflection (approximately two to four sentences) describing how you evaluated and possibly adapted the AI-generated content. If you iterated through multiple versions or modified the question substantially, please briefly explain why.
+
+The final document you submit must follow a clear and consistent structure for each of the five questions. Each question block should begin with the exam question itself, followed by the model answer. After that, you should include the prompt(s) you submitted to ChatGPT and the corresponding output(s). Finally, you should add your written reflection on the process. The structure of each question should therefore follow this order: (1) the exam question, (2) the answer, (3) the ChatGPT prompt and output, and (4) the reflection.
+
+Your complete submission should be compiled into a single file in either PDF or Markdown format. Please name your file using the following format: Lastname_Firstname_BonusQuestions.pdf. The deadline for submission is [insert date].
+
+The assignment will be graded out of 10 points. Up to four points will be awarded for the content accuracy and academic quality of the questions, up to two points for their pedagogical clarity and usefulness as exam items, one point for providing a meaningful range of difficulty, two points for the effective and appropriate use of ChatGPT, and one point for the quality and thoughtfulness of your documentation and reflection.
 
 
 ## Detailed Schedule
