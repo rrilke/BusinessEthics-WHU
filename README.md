@@ -32,7 +32,12 @@ The assignment will be graded out of 10 points. Up to four points will be awarde
 
 ## Detailed Schedule
 
-### Session 1 - Introduction & Utilitarianism  
+### Session 1 - Introduction & Utilitarianism
+#### Literature (required) 
+- Hinman, L. (2007). *The ethics of consequences*. In *Ethics: A pluralistic approach to moral theory* (pp. 129-165). Wadsworth.
+- Sinnott-Armstrong, W. (2023). Consequentialism. In E. N. Zalta & U. Nodelman (Eds.), *The Stanford Encyclopedia of Philosophy* (Winter 2023 edition). Retrieved from [https://plato.stanford.edu/archives/win2023/entries/consequentialism](https://plato.stanford.edu/archives/win2023/entries/consequentialism)
+- Sandel, M. (2010). The greatest happiness principle. In *Justice* (pp. 31-57). Penguin Books.
+- Harvard University. (2009, September 8). Justice: What’s the right thing to do? Episode 02: “Putting a Price Tag on Life” [Video]. YouTube. [https://www.youtube.com/watch?v=0O2Rq4HJBxw](https://www.youtube.com/watch?v=0O2Rq4HJBxw)
 ### Session 2 - Virtue Ethics & Deontology  
 ### Session 3 - Behavioral Ethics  
 ### Session 4 - Corporate Responsibility & Sustainability  
