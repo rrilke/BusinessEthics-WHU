@@ -15,6 +15,7 @@ Through a combination of classic readings, contemporary research, and practical 
 ## Grading
 
 ### Exam
+The largest portion of your grade will be determined by your performance on the final exam. The final exam is a 90-minute assessment designed to evaluate your understanding and knowledge of the material covered in the lectures. You can earn up to 100 points on this exam. It may consist of a variety of exercises: one section may include multiple-choice questions that test your familiarity with key definitions and core concepts; another section may require you to summarize and analyze a research paper discussed during the course, demonstrating your understanding of its significance and implications. You may also be asked to examine a business scenario using ethical theories introduced in class or to write a short essay on a selected topic related to the lecture content. The exam is designed to assess both your grasp of theoretical frameworks and your ability to apply ethical reasoning to real-world contexts.
 
 ### ChatGPT Exam Question Challenge
 As an optional opportunity to earn bonus points, students may submit a set of self-generated exam questions created in collaboration with ChatGPT. The objective of this assignment is twofold: first, to deepen your understanding of the course content by constructing thoughtful, well-designed exam questions; second, to engage critically with the capabilities and limitations of generative AI in academic work.
@@ -33,17 +34,21 @@ The assignment will be graded out of 10 points. Up to four points will be awarde
 ## Detailed Schedule
 
 ### Session 1 - Introduction & Utilitarianism
-#### Literature
 
+#### Overview 
+#### Literature
 **Introduction**
 
 
 **Utilitarianism**
 - Hinman, L. (2007). *The ethics of consequences*. In *Ethics: A pluralistic approach to moral theory* (pp. 129-165). Wadsworth.
-- Sinnott-Armstrong, W. (2023). Consequentialism. In E. N. Zalta & U. Nodelman (Eds.), *The Stanford Encyclopedia of Philosophy* (Winter 2023 edition). Retrieved from [Read online](https://plato.stanford.edu/archives/win2023/entries/consequentialism)
+- Sinnott-Armstrong, W. (2023). Consequentialism. In E. N. Zalta & U. Nodelman (Eds.), *The Stanford Encyclopedia of Philosophy* (Winter 2023 edition). [Read online](https://plato.stanford.edu/archives/win2023/entries/consequentialism)
 - Sandel, M. (2010). The greatest happiness principle. In *Justice* (pp. 31-57). Penguin Books.
 - Harvard University. (2009, September 8). Justice: What’s the right thing to do? Episode 02: “Putting a Price Tag on Life” [Video]. YouTube. [Watch here](https://www.youtube.com/watch?v=0O2Rq4HJBxw)
+
 ### Session 2 - Virtue Ethics & Deontology
+
+#### Overview
 
 #### Literature
 
