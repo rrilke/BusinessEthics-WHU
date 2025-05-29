@@ -1,6 +1,0 @@
-# Allow .gitignore itself and push.bat
-!.gitignore
-!push.bat
-
-# Allow only PDF files in the slides folder
-!slides/*.pdf
