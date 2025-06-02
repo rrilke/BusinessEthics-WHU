@@ -1,0 +1,11 @@
+\beamer@sectionintoc {1}{Introduction}{2}{0}{1}
+\beamer@subsectionintoc {1}{1}{Introduction to Business Ethics}{7}{0}{1}
+\beamer@subsectionintoc {1}{2}{Procedural Details}{8}{0}{1}
+\beamer@sectionintoc {2}{Ethical Theories}{14}{0}{2}
+\beamer@subsectionintoc {2}{1}{Utilitarianism}{15}{0}{2}
+\beamer@subsectionintoc {2}{2}{Deontology}{16}{0}{2}
+\beamer@subsectionintoc {2}{3}{Virtue Ethics}{17}{0}{2}
+\beamer@sectionintoc {3}{Behavioral Ethics}{18}{0}{3}
+\beamer@sectionintoc {4}{Corporate Responsibility \& Sustainability}{19}{0}{4}
+\beamer@sectionintoc {5}{Marketing, Accounting \& Transparency}{20}{0}{5}
+\beamer@sectionintoc {6}{Finance, Incentives \& Corruption}{21}{0}{6}
