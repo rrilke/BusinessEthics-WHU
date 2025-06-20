@@ -1,0 +1,109 @@
+\usepackage{graphicx} % Required for inserting images
+\usepackage{booktabs}
+\usepackage{adjustbox}
+\usepackage[utf8]{inputenc}
+\usepackage{lmodern}
+\usepackage{tcolorbox}
+\usetheme{Boadilla}
+%\usefonttheme{serif}
+
+\usepackage{tikz}
+\setbeamertemplate{background}{
+  \begin{tikzpicture}[remember picture,overlay]
+    \node[anchor=north east, xshift=-5mm, yshift=-3.5mm] at (current page.north east) {
+      \includegraphics[height=.75cm]{pics/WHU_Logo_RGB_Screen.jpg}
+    };
+  \end{tikzpicture}
+}
+
+\usecolortheme[]{dolphin}
+\definecolor{WHUblue}{rgb}{.08, .27,.58} % WHU Blue 
+\setbeamercolor{structure}{fg=WHUblue}
+
+\setbeamertemplate{itemize item}{\color{WHUblue}$\bullet$}
+\setbeamertemplate{itemize subitem}{\color{WHUblue}$\circ$}
+\setbeamertemplate{itemize subsubitem}{\color{WHUblue}$\cdot$}
+
+\setbeamertemplate{enumerate items}[default]
+
+
+\setbeamercolor{block title}{bg=WHUblue!10, fg=WHUblue}
+\setbeamercolor{block body}{bg=WHUblue!5, fg=black}
+\setbeamertemplate{blocks}[default]  % ohne Schatten
+
+\setbeamercolor{quoteblock title}{fg=WHUblue}
+\setbeamercolor{quoteblock body}{bg=WHUblue!5}
+
+\newenvironment{quoteblock}[1]{%
+  \begin{beamercolorbox}[colsep*=.75ex, leftskip=1em, rightskip=1em, width=\textwidth, rounded=true]{quoteblock body}
+  \textit{#1}
+  \end{beamercolorbox}
+}{}
+
+
+\setbeamersize{text margin left=0.75cm, text margin right=0.75cm}
+
+\setbeamertemplate{navigation symbols}{} % Symbole aus
+
+\setbeamertemplate{headline}{%
+  \leavevmode%
+  \hspace{1em}%
+  \usebeamercolor[fg]{section in head/foot}%
+  \bfseries\insertsection%
+  \vspace{0.5em}%
+}
+
+\newcommand{\source}[1]{%
+  \tikz[remember picture,overlay]{
+    \node[anchor=south east, xshift=-0.5cm, yshift=0.5cm] 
+    at (current page.south east) {\scriptsize\color{gray!60}#1};
+  }%
+}
+
+\setlength{\columnsep}{1pt}
+
+\newcommand{\twocolslide}[5]{%
+  \begin{frame}
+    \frametitle{#1}
+    \begin{columns}[T,onlytextwidth]
+      \begin{column}{#4\textwidth} % Left column width
+         \vfill
+        \begin{minipage}[c][0.9\textheight][c]{\linewidth}
+          #2
+        \end{minipage}
+        \vfill        
+      \end{column}
+      \begin{column}{#5\textwidth} % Right column width
+       \vfill
+        \begin{minipage}[c][0.9\textheight][c]{\linewidth}
+          #3
+        \end{minipage}
+        \vfill
+      \end{column}
+    \end{columns}
+  \end{frame}
+}
+
+\AtBeginSection[]{
+  \begin{frame}[plain]
+    \centering
+    {\color{WHUblue}\LARGE\bfseries\insertsection}
+  \end{frame}
+}
+
+\AtBeginSubsection[]{
+  \begin{frame}[plain]
+    \centering
+    \vfill
+    {\color{WHUblue}\large\insertsection}
+    
+    \vspace{1em}
+    \color{WHUblue}\Huge\bfseries\insertsubsection
+    \vfill
+  \end{frame}
+}
+
+\title{Business Ethics}
+\subtitle{Bachelor of Business Administration WHU}
+\author[Rilke]{Prof. Rainer Michael Rilke }
+\date{2025}
