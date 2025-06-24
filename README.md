@@ -12,12 +12,14 @@ Through a combination of classic readings, contemporary research, and practical 
 
 ## Schedule
 
-- **01.09.2025** — H-001 Hörsaal / Lecture Hall
-- **02.09.2025** — K-001 Hörsaal / Lecture Hall
-- **08.09.2025** — K-101 Hörsaal / Lecture Hall
-- **09.09.2025** — H-001 Hörsaal / Lecture Hall
-- **15.09.2025** — C-102/03 Klaus Rose Auditorium
-- **18.09.2025** — K-101 Hörsaal / Lecture Hall
+| Date         | Room                        |
+|--------------|----------------------------|
+| 01.09.2025   | H-001 Hörsaal / Lecture Hall |
+| 02.09.2025   | K-001 Hörsaal / Lecture Hall |
+| 08.09.2025   | K-101 Hörsaal / Lecture Hall |
+| 09.09.2025   | H-001 Hörsaal / Lecture Hall |
+| 15.09.2025   | C-102/03 Klaus Rose Auditorium |
+| 18.09.2025   | K-101 Hörsaal / Lecture Hall |
 
 ## Grading
 
