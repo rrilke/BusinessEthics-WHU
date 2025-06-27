@@ -42,24 +42,23 @@ The assignment will be graded out of 10 points. Up to four points will be awarde
 
 ## Detailed Schedule
 
-### Session 1 - Introduction & Utilitarianism
+### Block 1 - Normative Business Ethics
 
 #### Overview 
+
+-tbd
+
 #### Literature
+
 **Introduction**
 
+- tbd
 
 **Utilitarianism**
 - Hinman, L. (2007). *The ethics of consequences*. In *Ethics: A pluralistic approach to moral theory* (pp. 129-165). Wadsworth.
 - Sinnott-Armstrong, W. (2023). Consequentialism. In E. N. Zalta & U. Nodelman (Eds.), *The Stanford Encyclopedia of Philosophy* (Winter 2023 edition). [Read online](https://plato.stanford.edu/archives/win2023/entries/consequentialism)
 - Sandel, M. (2010). The greatest happiness principle. In *Justice* (pp. 31-57). Penguin Books.
 - Harvard University. (2009, September 8). Justice: What’s the right thing to do? Episode 02: “Putting a Price Tag on Life” [Video]. YouTube. [Watch here](https://www.youtube.com/watch?v=0O2Rq4HJBxw)
-
-### Session 2 - Virtue Ethics & Deontology
-
-#### Overview
-
-#### Literature
 
 **Deontology**
 - Hinman, L. (2007). *The ethics of duty*. In *Ethics: A pluralistic approach to moral theory* (pp. 166-194). Wadsworth.
@@ -74,17 +73,40 @@ The assignment will be graded out of 10 points. Up to four points will be awarde
 - Harvard University. (2009, September 9). Justice: What’s the right thing to do? Episode 10: “The Good Citizen” [Video]. YouTube. [Watch here](https://www.youtube.com/watch?v=MuiazbyOSqQ)
 
 
-### Session 3 - Behavioral Ethics
+### Block 2 - Descriptive Ethics 
+
+#### Overview
+#### Literature
+
+**Moral Judgment**
+- Awad, E., Dzousa, S., Kim, R., Schulz, J., Henrich, J., Shariff, A., Bonnefon, J.-F., & Rahwan, I. (2018). The Moral Machine Experiment. *Nature, 563*, 59–64. [https://doi.org/10.1038/s41586-018-0637-6](https://doi.org/10.1038/s41586-018-0637-6)
+- Greene, J., Sommerville, R., Nystrom, L., Darley, J., & Cohen, J. (2002). An fMRI Investigation of Emotional Engagement in Moral Judgment. *Science, 293*(5537), 2105–2108. [https://doi.org/10.1126/science.1062872](https://doi.org/10.1126/science.1062872)
+- Haidt, J. (2001). The emotional dog and its rational tail: A social intuitionist approach to moral judgment. *Psychological Review, 108*(4), 814–834. [https://doi.org/10.1037/0033-295X.108.4.814](https://doi.org/10.1037/0033-295X.108.4.814)
+- Haidt, J. (2012). *The righteous mind: Why good people are divided by politics and religion*. Vintage.
+- Haidt, J., & Joseph, C. (2004). Intuitive ethics: How innately prepared intuitions generate culturally variable virtues. *Daedalus, 133*(4), 55–66. [https://doi.org/10.1162/0011526042365555](https://doi.org/10.1162/0011526042365555)
+- Henrich, J., Heine, S. J., & Norenzayan, A. (2010). The weirdest people in the world? *Behavioral and Brain Sciences, 33*(2–3), 61–83. [https://doi.org/10.1017/S0140525X0999152X](https://doi.org/10.1017/S0140525X0999152X)
+- Jones, T. M. (1991). Ethical Decision Making by Individuals in Organizations: An Issue-Contingent Model. *Academy of Management Review, 16*(2), 366–395. [https://doi.org/10.5465/amr.1991.4278958](https://doi.org/10.5465/amr.1991.4278958)
+- Kohlberg, J. (1963). The development of children’s orientation toward a moral order. *Vita Humana, 6*, 11–33.
+- Rest, J. R. (1986). *Moral development: Advances in research and theory*. Praeger.
+- Sunstein, C. R. (2005). Moral heuristics. *Behavioral and Brain Sciences, 28*(4), 531–573. [https://doi.org/10.1017/S0140525X05000099](https://doi.org/10.1017/S0140525X05000099)
+- Trevino, L. K. (1986). Ethical decision making in organizations: A person-situation interactionist model. *Academy of Management Review, 11*, 601–617. [https://doi.org/10.5465/amr.1986.4306235](https://doi.org/10.5465/amr.1986.4306235)
+
+**Moral Behavior**
+
+- Cohn, A., Fehr, E., & Maréchal, M. A. (2014). Business culture and dishonesty in the banking industry. *Nature, 516*(7529), 86–89. [https://doi.org/10.1038/nature13977](https://doi.org/10.1038/nature13977)
+- Epley, N., & Dunning, D. (2000). Feeling "holier than thou": Are self-serving assessments produced by errors in self- or social prediction? *Journal of Personality and Social Psychology, 79*(6), 861–875. [https://doi.org/10.1037/0022-3514.79.6.861](https://doi.org/10.1037/0022-3514.79.6.861)
+- Mead, N. L., Baumeister, R. F., Gino, F., Schweitzer, M. E., & Ariely, D. (2009). Too tired to tell the truth: Self-control resource depletion and dishonesty. *Journal of Experimental Social Psychology, 45*(3), 594–597. [https://doi.org/10.1016/j.jesp.2009.02.004](https://doi.org/10.1016/j.jesp.2009.02.004)
+- Moore, C., & Gino, F. (2015). Approach, ability, aftermath: A psychological process framework of unethical behavior at work. *Academy of Management Annals, 9*(1), 235–289. [https://doi.org/10.5465/19416520.2015.1011522](https://doi.org/10.5465/19416520.2015.1011522)
+- Sachdeva, S., Iliev, R., & Medin, D. L. (2009). Sinning saints and saintly sinners: The paradox of moral self-regulation. *Psychological Science, 20*(4), 523–528. [https://doi.org/10.1111/j.1467-9280.2009.02326.x](https://doi.org/10.1111/j.1467-9280.2009.02326.x)
+- Saucet, C., & Villeval, M. C. (2019). Motivated memory in dictator games. *Games and Economic Behavior, 117*, 250–275. [https://doi.org/10.1016/j.geb.2019.06.003](https://doi.org/10.1016/j.geb.2019.06.003)
+- Schwitzgebel, E., & Rust, J. (2016). The behavior of ethicists. In J. Sytsma & W. Buckwalter (Eds.), *A companion to experimental philosophy* (pp. 225–233). Wiley. [https://doi.org/10.1002/9781118661666.ch16](https://doi.org/10.1002/9781118661666.ch16)
+
+
+### Block 3 - Business Ethics Concepts
+
+#### Overview
 
 #### Literature
-- Haidt, J. (2001). The emotional dog and its rational tail: A social intuitionist approach to moral judgment. *Psychological Review, 108*(4), 814–834. [https://doi.org/10.1037/0033-295X.108.4.814](https://doi.org/10.1037/0033-295X.108.4.814)
-- Sunstein, C. R. (2005). Moral heuristics. *Behavioral and Brain Sciences, 28*(4), 531–573. [https://doi.org/10.1017/S0140525X05000099](https://doi.org/10.1017/S0140525X05000099)
-
-
-### Session 4 - Corporate Responsibility & Sustainability  
-### Session 5 - Marketing, Accounting & Transparency  
-### Session 6 - Finance, Incentives & Corruption  
-
 
 
 
